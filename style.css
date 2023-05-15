@@ -86,13 +86,13 @@ span{
 }
 .targetafrontal:hover{
     transform: rotateY(180deg);
-    transition: transform 0.8s;
+    transition: transform 0.6s;
     transform-style: preserve-3d;
     backface-visibility:hidden;
 }
 .card:hover{
     transform: rotateY(180deg);
-    transition: transform 0.8s;
+    transition: transform 2s;
     transform-style: preserve-3d;
     backface-visibility:hidden;
 }
